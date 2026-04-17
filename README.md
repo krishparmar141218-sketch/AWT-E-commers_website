@@ -1,4 +1,3 @@
-![Course Thumbnail](/thumb.png)
 
 🛒 MERN E-Commerce Store
 
@@ -111,7 +110,7 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 
-Fenil Apaliya
+Krish Parmar
 
 ---
 
